@@ -1,2 +1,3 @@
-# aws-lab-001-assume-role
-This repository is for doing AWS IAM Assume Role Lab
+# Overview
+
+This repository is for doing AWS IAM Assume Role Lab with Terraform & GitHub Action.
